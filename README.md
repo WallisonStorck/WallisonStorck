@@ -13,6 +13,8 @@ Você gostaria de me encontrar?
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Wallison_Storck)](https://twitter.com/Wallison_Storck)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/wallisonstorck)](https://www.linkedin.com/in/wallisonstorck)
 
+![](https://komarev.com/ghpvc/?username=wallisonstorck&color=blue&style=flat)
+
 --------------------------------------------------
 ### "Hello people!" \ o / 👋
 
