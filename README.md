@@ -12,7 +12,7 @@ Você gostaria de me encontrar?
 <!--[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCPjXSHtD79xVUHFA3U9Naqw)](https://www.youtube.com/channel/UCPjXSHtD79xVUHFA3U9Naqw)-->
 [![Twitter Badge](https://img.shields.io/badge/-@wallison_storck-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Wallison_Storck)](https://twitter.com/Wallison_Storck)
 [![Linkedin Badge](https://img.shields.io/badge/-wallisonstorck-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/wallisonstorck)](https://www.linkedin.com/in/wallisonstorck)
-[![Gmail Badge](https://img.shields.io/badge/-storck779@gmail.com-f07c1d?style=flat-square&logo=Gmail&logoColor=white&link=mailto:storck779@gmail.com)](mailto:storck779@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-storck779@gmail.com-cf5300?style=flat-square&logo=Gmail&logoColor=white&link=mailto:storck779@gmail.com)](mailto:storck779@gmail.com)
 
 --------------------------------------------------
 ### "Hello people!" \ o / 👋
