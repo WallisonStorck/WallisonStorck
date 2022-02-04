@@ -4,8 +4,8 @@ Meu nome é Wallison Storck ou pode me chamar somente de Storck. Sou formado em 
 
 - 🔭 Atualmente estou lecionando disciplinas de informática no IFRO - Instituto Federal de Rondônia mas quero voltar a área de desenvolvimento!
 - 🌱 No momento, estou aprendendo bastante HTML5, CSS3, JavaScript, React, NodeJs e vendo o básico de algumas outras como o GO atraves de imersões e bootcamps.
-- 🤔 Estou procurando uma oportunidade de Front-End Júnior!
-- 📫 Como entrar em contato comigo: storck779@gmail.com
+<!-- - 🤔 Estou procurando uma oportunidade de Front-End Júnior! -->
+<!-- - 📫 Como entrar em contato comigo: storck779@gmail.com -->
 
 Você gostaria de me encontrar?
 
@@ -21,8 +21,8 @@ My name is Wallison Storck or you can just call me Storck. I have a degree in In
 
 - 🔭 I am currently teaching computer courses at IFRO - Federal Institute of Rondônia but I want to return to the development area!
 - 🌱 Right now, I'm learning a lot about HTML5, CSS3, JavaScript, React, NodeJs and seeing the basics of some others like GO through immersions and bootcamps.
-- 🤔 I'm looking for a Junior Front-End opportunity!
-- 📫 How to contact me: storck779@gmail.com
+<!-- - 🤔 I'm looking for a Junior Front-End opportunity! -->
+<!-- - 📫 How to contact me: storck779@gmail.com -->
 
 ![](https://komarev.com/ghpvc/?username=wallisonstorck&color=blue&style=flat)
 
