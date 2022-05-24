@@ -1,43 +1,49 @@
-### "Olá pessoas!" \o/ 👋
+### 🇧🇷 Olá visitante! \o/ 👋
 
-Meu nome é Wallison Storck ou pode me chamar somente de Storck. Sou formado em Sistemas de Informação pelo CEULJI/ULBRA.
+Meu nome é Wallison Storck ou pode me chamar somente de "Storck". Sou bacharel em Sistemas de Informação pelo Centro Universitário Luterano de Ji-Paraná. Especialista em Computação Forense e Perícia Digital pelo Instituto de Graduação e Pós-Graduação. Especialista em Metodologias do Ensino Superior pela FIMCA Unicentro.
 
-- 🔭 Atualmente estou lecionando disciplinas de informática no IFRO - Instituto Federal de Rondônia mas quero voltar a área de desenvolvimento!
-- 🌱 No momento, estou aprendendo bastante HTML5, CSS3, JavaScript, React, NodeJs e vendo o básico de algumas outras como o GO atraves de imersões e bootcamps.
-<!-- - 🤔 Estou procurando uma oportunidade de Front-End Júnior! -->
-<!-- - 📫 Como entrar em contato comigo: storck779@gmail.com -->
+Atualmente busco uma transição para Desenvolvimento Web, possuo conhecimentos na stack ECMAScript, como HTML, CSS, ReactJS, NodeJS, MongoDB, além do próprio JavaScript.
 
-Você gostaria de me encontrar?
+---
 
-<!--[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCPjXSHtD79xVUHFA3U9Naqw)](https://www.youtube.com/channel/UCPjXSHtD79xVUHFA3U9Naqw)-->
-[![Twitter Badge](https://img.shields.io/badge/-@wallison_storck-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Wallison_Storck)](https://twitter.com/Wallison_Storck)
-[![Linkedin Badge](https://img.shields.io/badge/-wallisonstorck-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/wallisonstorck)](https://www.linkedin.com/in/wallisonstorck)
-[![Gmail Badge](https://img.shields.io/badge/-storck779@gmail.com-2f96d6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:storck779@gmail.com)](mailto:storck779@gmail.com)
+### 🇺🇸 Hello visitor! \o/ 👋
 
---------------------------------------------------
-### "Hello people!" \ o / 👋
+My name is Wallison Storck or you can just call me "Storck". I have a bachelor's degree in Information Systems by the Lutheran University Center of Ji-Paraná. Specialist in Computer Forensics and Digital Forensics by the Graduate and Graduate Institute. Specialist in Higher Education Methodologies by FIMCA Unicentro.
 
-My name is Wallison Storck or you can just call me Storck. I have a degree in Information Systems from CEULJI / ULBRA.
+I am currently looking for a transition to Web Development, I have knowledge in the ECMAScript stack, such as HTML, CSS, ReactJS, NodeJS, MongoDB, in addition to JavaScript itself.
 
-- 🔭 I am currently teaching computer courses at IFRO - Federal Institute of Rondônia but I want to return to the development area!
-- 🌱 Right now, I'm learning a lot about HTML5, CSS3, JavaScript, React, NodeJs and seeing the basics of some others like GO through immersions and bootcamps.
-<!-- - 🤔 I'm looking for a Junior Front-End opportunity! -->
-<!-- - 📫 How to contact me: storck779@gmail.com -->
+---
+
+<div align="center">
+<a href="https://github.com/wallisonstorck">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallisonstorck&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonstorck&layout=compact&langs_count=7&theme=default"/>
+</div>
+
+<div style="display: inline_block"><br>
+<img align="center" alt="Storck-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Storck-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Storck-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<!-- <img align="center" alt="Storck-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+<img align="center" alt="Storck-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Storck-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="Storck-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
+<img align="center" alt="Storck-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+<img align="center" alt="Storck-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
+</div>
+  
+ ---
+ 
+<div> 
+<!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+<a href="https://instagram.com/wallison_storck" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/Wallison_Storck" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://discordapp.com/users/Wallison%20Storck#1909" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href = "mailto:storck779@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/wallisonstorck" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</div>
+
+<br>
 
 ![](https://komarev.com/ghpvc/?username=wallisonstorck&color=blue&style=flat)
-
-
-<!--
-**WallisonStorck/WallisonStorck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
