@@ -16,8 +16,8 @@ I am currently looking for a transition to Web Development, I have knowledge in 
 
 <div align="center">
 <a href="https://github.com/wallisonstorck">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallisonstorck&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonstorck&layout=compact&langs_count=7&theme=default"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallisonstorck&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonstorck&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
 <div style="display: inline_block"><br>
